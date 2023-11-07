@@ -16,9 +16,13 @@ Database =  an organized collection of structured information, or data, typicall
 3.** ZERO TRUST SECURITY -  no one is trusted by default from inside or outside the network, and verification 
                             is required from everyone trying to gain access to resources on the network . 
 
-#VPN
+#VPN#
  - It stands  Virtual Private Networking. 
-  - protects its users by encrypting their data and masking their IP addresses . 
+  - protects its users by encrypting their data and masking their IP addresses .
+  -
+  -  ## Load Balancer : - the method of distributing network traffic equally across a pool of resources that support an application.
+  - ## USE CASES :_ the method of distributing network traffic equally across a pool of resources that support an application.
+  - 
 
 
 
