@@ -11,7 +11,14 @@ Database =  an organized collection of structured information, or data, typicall
    
 2. ** PKI INFRASTRUCTRES -  the set of hardware, software, policies, processes, and procedures required to create, manage, distribute, use, store, and 
                           revoke digital certificates and public-keys.
+
+
 3.** ZERO TRUST SECURITY -  no one is trusted by default from inside or outside the network, and verification 
                             is required from everyone trying to gain access to resources on the network . 
+
 #VPN
+ - It stands  Virtual Private Networking. 
+  - protects its users by encrypting their data and masking their IP addresses . 
+
+
 
